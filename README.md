@@ -1,4 +1,5 @@
 # Change Calculator
+Code developed for Learning Situation 3 of the Application Programming subject
 This application is designed to calculate change based on the total purchase amount and the amount received. Its main objective is to assist the cashier, optimizing efficiency by determining the smallest number of notes and coins needed for change.
 
 <h5> Features:
